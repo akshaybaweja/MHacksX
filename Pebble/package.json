@@ -1,0 +1,21 @@
+{
+    "author": "akshaybaweja.1996@gmail.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "mhacks-x",
+    "pebble": {
+        "displayName": "MHacks X",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "uuid": "0984a041-6d2d-4168-9479-8bcf6da20f49",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
